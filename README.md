@@ -1,3 +1,8 @@
+
+![image](https://github.com/D-Mad/deepface_color_transfer_automatic1111/assets/8207507/13e06158-f76a-43ca-9128-04b6cafcc363)
+![image](https://github.com/D-Mad/deepface_color_transfer_automatic1111/assets/8207507/13e06158-f76a-43ca-9128-04b6cafcc363)
+
+
 Color Transfer Extension for Automatic1111's Stable Diffusion
 This repository contains an extension for AUTOMATIC1111's Stable Diffusion that allows you to perform color transfer between two images using OpenCV. The color transfer technique adjusts the color distribution of a source image to match the color distribution of a target image while preserving the original content of the source image.
 Features
