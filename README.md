@@ -5,7 +5,8 @@
 
 
 This is the color transfer and deepface tool in automatic1111
-
+Face Analysis for a1111 automatic111 stable diffusion webui
+Detect and calculate the Euclidean and Cosine distance between two faces.
 as interface from 
 https://github.com/serengil/deepface
 
